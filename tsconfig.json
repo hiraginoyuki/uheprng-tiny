@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "newLine": "LF",
+    "rootDir": "./src",
+    "target": "ES2022"
+  }
+}

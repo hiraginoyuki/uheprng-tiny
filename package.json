@@ -1,0 +1,23 @@
+{
+  "name": "uheprng-tiny",
+  "version": "0.1.0",
+  "description": "GRC's ultra-high entropy pseudo-random number generator, rewrited as a typescript class",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiraginoyuki/uheprng-tiny.git"
+  },
+  "keywords": [
+    "dependency-less",
+    "typescript",
+    "random",
+    "number",
+    "generator",
+    "prng"
+  ],
+  "peerDependencies": {
+    "typescript": "*"
+  },
+  "author": "GRC, hiraginoyuki",
+  "license": "MIT",
+  "homepage": "https://www.grc.com/otg/uheprng.htm"
+}
